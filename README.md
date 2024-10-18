@@ -22,10 +22,10 @@ Tôi là một lập trình viên web chuyên về phát triển frontend, với
   <a href="https://github.com/manhcr7">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://www.instagram.com/your_instagram_profile">
+  <a href="https://www.instagram.com/manh_chup_anh/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
 </a>
-<a href="https://www.facebook.com/your_facebook_profile">
+<a href="https://www.facebook.com/nh.ma.756/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
 </a>
   </a>
