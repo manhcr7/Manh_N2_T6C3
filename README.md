@@ -2,10 +2,10 @@
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=manhcr7&color=dc143c&style=for-the-badge" alt="Lượt xem trang cá nhân" style="height:25px;">
-Lập Trình Viên Web
-<a href="https://www.instagram.com/manh_chup_anh/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="height:25px;" />
-</a>
+  Lập Trình Viên Web
+  <a href="https://www.instagram.com/manh_chup_anh/">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="height:25px;" />
+  </a>
 </h2>
 
 <div align="center">
@@ -14,16 +14,16 @@ Lập Trình Viên Web
 
 ---
 
-## <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gandalf_parrot.gif" width="37" /> Giới thiệu
+## 🌟 Giới thiệu
 
-Tôi là một lập trình viên web chuyên về phát triển **frontend**, với hơn 2 năm kinh nghiệm làm việc với các dự án từ nhỏ đến lớn. Khả năng của tôi là thiết kế và phát triển giao diện người dùng tương tác, tối ưu hóa trải nghiệm người dùng và luôn cập nhật những xu hướng công nghệ mới nhất.
+Tôi là một lập trình viên web chuyên về phát triển **frontend**, với hơn 2 năm kinh nghiệm làm việc trên các dự án từ nhỏ đến lớn. Tôi có khả năng thiết kế và phát triển giao diện người dùng tương tác, tối ưu hóa trải nghiệm người dùng và luôn cập nhật những xu hướng công nghệ mới nhất.
 
 Tôi đam mê tạo ra những website với **thiết kế đẹp mắt, tối ưu hóa SEO**, và đặc biệt quan tâm đến **hiệu suất**. Các công nghệ chính mà tôi sử dụng bao gồm:
 - **HTML5**, **CSS3**, **JavaScript** cho phần giao diện
 - **React.js** và **Redux** cho ứng dụng web một trang (SPA)
 - **Node.js** và **Express** để xử lý backend đơn giản
 
-Ngoài ra, tôi luôn mong muốn học hỏi và trau dồi thêm kiến thức trong các công nghệ mới như **Next.js**, **TypeScript** và **GraphQL** để ứng dụng vào các dự án sắp tới.
+Tôi luôn mong muốn học hỏi và trau dồi thêm kiến thức trong các công nghệ mới như **Next.js**, **TypeScript**, và **GraphQL** để ứng dụng vào các dự án sắp tới.
 
 ---
 
@@ -66,7 +66,6 @@ Ngoài công việc lập trình, tôi còn có sở thích:
 - [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-photography-digital-marketing-flaticons-flat-flat-icons-2.png" width="25"/>](https://www.instagram.com/manh_chup_anh/) **Nhiếp ảnh**: Tôi thích chụp lại những khoảnh khắc đẹp trong cuộc sống và chia sẻ chúng trên Instagram.
 - [<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-music-party-flatart-icons-outline-flatarticons.png" width="25"/>](https://open.spotify.com/) **Âm nhạc**: Nghe nhạc là nguồn cảm hứng không thể thiếu, đặc biệt là các thể loại nhạc điện tử và indie.
 - [<img src="https://img.icons8.com/color/48/000000/travel--v1.png" width="25"/>](https://www.lonelyplanet.com/) **Du lịch**: Khám phá những vùng đất mới và học hỏi từ những nền văn hóa khác nhau là niềm đam mê của tôi.
-
 
 ---
 
