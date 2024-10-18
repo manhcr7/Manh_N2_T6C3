@@ -23,6 +23,8 @@ Tôi đam mê tạo ra những website với **thiết kế đẹp mắt, tối 
 - **React.js** và **Redux** cho ứng dụng web một trang (SPA)
 - **Node.js** và **Express** để xử lý backend đơn giản
 
+Ngoài ra, tôi luôn mong muốn học hỏi và trau dồi thêm kiến thức trong các công nghệ mới như **Next.js**, **TypeScript** và **GraphQL** để ứng dụng vào các dự án sắp tới.
+
 ---
 
 ### 🔧 Kỹ năng chính
@@ -34,6 +36,7 @@ Tôi đam mê tạo ra những website với **thiết kế đẹp mắt, tối 
 | **JavaScript (ES6+)** | ![JavaScript](https://img.shields.io/badge/80%25-yellow?style=for-the-badge) |
 | **React.js**        | ![React](https://img.shields.io/badge/85%25-blue?style=for-the-badge) |
 | **Node.js**         | ![Node](https://img.shields.io/badge/70%25-green?style=for-the-badge) |
+| **Next.js**         | ![Next.js](https://img.shields.io/badge/60%25-black?style=for-the-badge) |
 
 ---
 
@@ -44,6 +47,7 @@ Dưới đây là một số dự án mà tôi tự hào:
 1. **[Ứng dụng Quản lý Công việc](https://github.com/manhcr7/task-manager)**: Xây dựng bằng React.js và Node.js, ứng dụng này giúp người dùng quản lý công việc hàng ngày với giao diện đơn giản và hiệu quả.
 2. **[Trang Landing Page Sản phẩm](https://github.com/manhcr7/landing-page)**: Thiết kế một trang landing page sáng tạo cho một sản phẩm mới, với các hiệu ứng CSS và JavaScript để tăng cường tương tác người dùng.
 3. **[Ứng dụng Thời tiết](https://github.com/manhcr7/weather-app)**: Sử dụng API thời tiết, ứng dụng này giúp người dùng theo dõi thời tiết hiện tại của thành phố mà họ quan tâm.
+4. **[Website Portfolio Cá nhân](https://github.com/manhcr7/portfolio-website)**: Một trang portfolio cá nhân giúp tôi trình bày các kỹ năng và dự án đã thực hiện, sử dụng React.js và Sass để tối ưu giao diện và trải nghiệm người dùng.
 
 ---
 
@@ -52,6 +56,16 @@ Dưới đây là một số dự án mà tôi tự hào:
 - **Responsive Design**: Tất cả các dự án của tôi đều đảm bảo khả năng tương thích với mọi kích thước màn hình, từ điện thoại đến máy tính bàn.
 - **Sass & CSS Grid/Flexbox**: Giúp xây dựng giao diện linh hoạt và nhanh chóng.
 - **SEO Optimization**: Tôi luôn chú trọng việc tối ưu hóa trang web để đạt được kết quả tốt nhất trên các công cụ tìm kiếm.
+- **Dark Mode & Light Mode**: Tính năng chuyển đổi giữa các chế độ sáng và tối giúp tăng trải nghiệm người dùng.
+
+---
+
+### 📚 Sở thích cá nhân
+
+Ngoài công việc lập trình, tôi còn có sở thích:
+- **Nhiếp ảnh**: Tôi thích chụp lại những khoảnh khắc đẹp trong cuộc sống và chia sẻ chúng trên Instagram.
+- **Âm nhạc**: Nghe nhạc là nguồn cảm hứng không thể thiếu, đặc biệt là các thể loại nhạc điện tử và indie.
+- **Du lịch**: Khám phá những vùng đất mới và học hỏi từ những nền văn hóa khác nhau là niềm đam mê của tôi.
 
 ---
 
@@ -66,6 +80,9 @@ Dưới đây là một số dự án mà tôi tự hào:
   </a>
   <a href="https://www.facebook.com/nh.ma.756/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+  </a>
+  <a href="mailto:manhledeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
 
