@@ -1,20 +1,20 @@
-<h1 align="center">Xin chào <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, Tôi là Lê Vũ Mạnh</h1>
+<h1 align="center">Xin chào <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="30px" height="30px" />, Tôi là Lê Vũ Mạnh</h1>
 
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=manhcr7&color=dc143c&style=for-the-badge" alt="Lượt xem trang cá nhân" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=manhcr7&color=dc143c&style=for-the-badge" alt="Lượt xem trang cá nhân" style="height:25px;">
 Lập Trình Viên Web
 <a href="https://www.instagram.com/manh_chup_anh/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="height:22px;" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="height:25px;" />
 </a>
 </h2>
 
 <div align="center">
- <img alt="GIF" src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+ <img alt="GIF" src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
 </div>
 
 ---
 
-## <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> Giới thiệu
+## <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gandalf_parrot.gif" width="37" /> Giới thiệu
 
 Tôi là một lập trình viên web chuyên về phát triển **frontend**, với hơn 2 năm kinh nghiệm làm việc với các dự án từ nhỏ đến lớn. Khả năng của tôi là thiết kế và phát triển giao diện người dùng tương tác, tối ưu hóa trải nghiệm người dùng và luôn cập nhật những xu hướng công nghệ mới nhất.
 
@@ -31,12 +31,12 @@ Ngoài ra, tôi luôn mong muốn học hỏi và trau dồi thêm kiến thức
 
 | Kỹ năng             | Mức độ thông thạo |
 |---------------------|------------------|
-| **HTML5**           | ![HTML](https://img.shields.io/badge/90%25-yellow?style=for-the-badge) |
-| **CSS3 (Sass)**     | ![CSS](https://img.shields.io/badge/85%25-blue?style=for-the-badge) |
-| **JavaScript (ES6+)** | ![JavaScript](https://img.shields.io/badge/80%25-yellow?style=for-the-badge) |
-| **React.js**        | ![React](https://img.shields.io/badge/85%25-blue?style=for-the-badge) |
-| **Node.js**         | ![Node](https://img.shields.io/badge/70%25-green?style=for-the-badge) |
-| **Next.js**         | ![Next.js](https://img.shields.io/badge/60%25-black?style=for-the-badge) |
+| <img src="https://img.icons8.com/color/48/000000/html-5.png" width="25"/> **HTML5**           | ![HTML](https://img.shields.io/badge/90%25-yellow?style=for-the-badge) |
+| <img src="https://img.icons8.com/color/48/000000/css3.png" width="25"/> **CSS3 (Sass)**     | ![CSS](https://img.shields.io/badge/85%25-blue?style=for-the-badge) |
+| <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="25"/> **JavaScript (ES6+)** | ![JavaScript](https://img.shields.io/badge/80%25-yellow?style=for-the-badge) |
+| <img src="https://img.icons8.com/office/48/000000/react.png" width="25"/> **React.js**        | ![React](https://img.shields.io/badge/85%25-blue?style=for-the-badge) |
+| <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="25"/> **Node.js**         | ![Node](https://img.shields.io/badge/70%25-green?style=for-the-badge) |
+| <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="25"/> **Next.js**         | ![Next.js](https://img.shields.io/badge/60%25-black?style=for-the-badge) |
 
 ---
 
@@ -63,9 +63,9 @@ Dưới đây là một số dự án mà tôi tự hào:
 ### 📚 Sở thích cá nhân
 
 Ngoài công việc lập trình, tôi còn có sở thích:
-- **Nhiếp ảnh**: Tôi thích chụp lại những khoảnh khắc đẹp trong cuộc sống và chia sẻ chúng trên Instagram.
-- **Âm nhạc**: Nghe nhạc là nguồn cảm hứng không thể thiếu, đặc biệt là các thể loại nhạc điện tử và indie.
-- **Du lịch**: Khám phá những vùng đất mới và học hỏi từ những nền văn hóa khác nhau là niềm đam mê của tôi.
+- <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-photography-digital-marketing-flaticons-flat-flat-icons-2.png" width="25"/> **Nhiếp ảnh**: Tôi thích chụp lại những khoảnh khắc đẹp trong cuộc sống và chia sẻ chúng trên Instagram.
+- <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-music-party-flatart-icons-outline-flatarticons.png" width="25"/> **Âm nhạc**: Nghe nhạc là nguồn cảm hứng không thể thiếu, đặc biệt là các thể loại nhạc điện tử và indie.
+- <img src="https://img.icons8.com/color/48/000000/travel--v1.png" width="25"/> **Du lịch**: Khám phá những vùng đất mới và học hỏi từ những nền văn hóa khác nhau là niềm đam mê của tôi.
 
 ---
 
