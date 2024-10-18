@@ -102,7 +102,7 @@ Tôi là một lập trình viên web chuyên về phát triển frontend, với
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
+ <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
   #### <a href="https://github.com/ParthJohri/rm-whatsapp-bot">RMNotices</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
