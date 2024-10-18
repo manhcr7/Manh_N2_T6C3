@@ -63,9 +63,10 @@ Dưới đây là một số dự án mà tôi tự hào:
 ### 📚 Sở thích cá nhân
 
 Ngoài công việc lập trình, tôi còn có sở thích:
-- <a href="https://www.instagram.com/manh_chup_anh/" target="_blank"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-photography-digital-marketing-flaticons-flat-flat-icons-2.png" width="25"/></a> **Nhiếp ảnh**: Tôi thích chụp lại những khoảnh khắc đẹp trong cuộc sống và chia sẻ chúng trên Instagram.
-- <a href="https://open.spotify.com/" target="_blank"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-music-party-flatart-icons-outline-flatarticons.png" width="25"/></a> **Âm nhạc**: Nghe nhạc là nguồn cảm hứng không thể thiếu, đặc biệt là các thể loại nhạc điện tử và indie.
-- <a href="https://www.lonelyplanet.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/travel--v1.png" width="25"/></a> **Du lịch**: Khám phá những vùng đất mới và học hỏi từ những nền văn hóa khác nhau là niềm đam mê của tôi.
+- [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-photography-digital-marketing-flaticons-flat-flat-icons-2.png" width="25"/>](https://www.instagram.com/manh_chup_anh/) **Nhiếp ảnh**: Tôi thích chụp lại những khoảnh khắc đẹp trong cuộc sống và chia sẻ chúng trên Instagram.
+- [<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-music-party-flatart-icons-outline-flatarticons.png" width="25"/>](https://open.spotify.com/) **Âm nhạc**: Nghe nhạc là nguồn cảm hứng không thể thiếu, đặc biệt là các thể loại nhạc điện tử và indie.
+- [<img src="https://img.icons8.com/color/48/000000/travel--v1.png" width="25"/>](https://www.lonelyplanet.com/) **Du lịch**: Khám phá những vùng đất mới và học hỏi từ những nền văn hóa khác nhau là niềm đam mê của tôi.
+
 
 ---
 
