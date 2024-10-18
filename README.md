@@ -19,14 +19,15 @@ Tôi là một lập trình viên web chuyên về phát triển frontend, với
 ### 🔗 Connect with me:
 
 <p align="center">
-  <a href="https://github.com/ParthJohri">
+<a href="https://github.com/manhcr7">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/parthjohri/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:parth.johri@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  <a href="https://www.instagram.com/your_instagram_profile">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+</a>
+<a href="https://www.facebook.com/your_facebook_profile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+</a>
   </a>
 </p>
 
