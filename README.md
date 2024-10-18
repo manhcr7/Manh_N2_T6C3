@@ -19,8 +19,7 @@ Tôi là một lập trình viên web chuyên về phát triển frontend, với
 
 
 <details>
- <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
- 
+ <summary><h4> <img align="center" src="https://github.com/manhcr7/manhcr7/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
  <details>
   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
