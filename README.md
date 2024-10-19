@@ -87,6 +87,21 @@ Dưới đây là một số dự án mà tôi tự hào:
 
 ---
 
+### 💻 Công cụ và Công nghệ sử dụng
+
+- **IDE**: Visual Studio Code, WebStorm
+- **Version Control**: Git, GitHub
+- **Design Tools**: Figma, Adobe XD
+- **Testing**: Jest, React Testing Library
+
+---
+
+### 📝 Blog & Viết lách
+
+Tôi thường xuyên viết blog về các chủ đề công nghệ và lập trình. Bạn có thể theo dõi bài viết của tôi tại [Medium](https://medium.com/) hoặc trên blog cá nhân của tôi (nếu có).
+
+---
+
 ### 📚 Sở thích cá nhân
 
 Ngoài công việc lập trình, tôi còn có sở thích:
@@ -118,3 +133,37 @@ Ngoài công việc lập trình, tôi còn có sở thích:
 ### 🎧 Nghe nhạc cùng tôi
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
+---
+
+### 🚀 Học hỏi từ cộng đồng
+
+Tôi luôn tham gia các diễn đàn và cộng đồng lập trình như:
+- **[Stack Overflow](https://stackoverflow.com/)**
+- **[Reddit - Programming](https://www.reddit.com/r/programming/)**
+- **[Dev.to](https://dev.to/)**
+
+---
+
+### 🏆 Giải thưởng & Thành tựu
+
+- **[Giải nhất cuộc thi lập trình tại trường Iuh](https://iuh.edu.vn/)** - 2023
+- **[Học bổng xuất sắc](https://iuh.edu.vn/)** - 2022
+
+---
+
+### 💡 Tầm nhìn tương lai
+
+Tôi hy vọng sẽ phát triển sự nghiệp trong lĩnh vực công nghệ thông tin và góp phần vào việc phát triển các sản phẩm và dịch vụ công nghệ có ý nghĩa cho xã hội.
+
+---
+
+### 📞 Liên hệ
+
+Nếu bạn có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ với tôi qua email hoặc trực tiếp trên mạng xã hội. Tôi luôn sẵn lòng trao đổi và hợp tác!
+
+---
+
+### 📝 Cảm ơn bạn đã ghé thăm trang cá nhân của tôi!
+
+Hy vọng bạn tìm thấy thông tin hữu ích và thú vị. Hãy theo dõi tôi để cập nhật những dự án và bài viết mới nhất!
