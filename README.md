@@ -16,14 +16,18 @@
 
 ## 🌟 Giới thiệu
 
-Tôi là một lập trình viên web chuyên về phát triển **frontend**, với hơn 2 năm kinh nghiệm làm việc trên các dự án từ nhỏ đến lớn. Tôi có khả năng thiết kế và phát triển giao diện người dùng tương tác, tối ưu hóa trải nghiệm người dùng và luôn cập nhật những xu hướng công nghệ mới nhất.
+Tôi là một lập trình viên web chuyên về phát triển **frontend**, với hơn 2 năm kinh nghiệm làm việc trên các dự án từ nhỏ đến lớn. Từ những ngày đầu học lập trình, tôi đã đam mê tạo ra các sản phẩm kỹ thuật số giúp cải thiện cuộc sống của mọi người.
 
-Tôi đam mê tạo ra những website với **thiết kế đẹp mắt, tối ưu hóa SEO**, và đặc biệt quan tâm đến **hiệu suất**. Các công nghệ chính mà tôi sử dụng bao gồm:
+Tôi có khả năng thiết kế và phát triển giao diện người dùng tương tác, tối ưu hóa trải nghiệm người dùng và luôn cập nhật những xu hướng công nghệ mới nhất. Tôi đam mê tạo ra những website với **thiết kế đẹp mắt, tối ưu hóa SEO**, và đặc biệt quan tâm đến **hiệu suất**.
+
+Các công nghệ chính mà tôi sử dụng bao gồm:
 - **HTML5**, **CSS3**, **JavaScript** cho phần giao diện
 - **React.js** và **Redux** cho ứng dụng web một trang (SPA)
 - **Node.js** và **Express** để xử lý backend đơn giản
 
-Tôi luôn mong muốn học hỏi và trau dồi thêm kiến thức trong các công nghệ mới như **Next.js**, **TypeScript**, và **GraphQL** để ứng dụng vào các dự án sắp tới.
+### 👨‍🎓 Hành trình học tập
+
+Tôi hiện đang theo học tại trường **Iuh**, nơi tôi không chỉ học tập mà còn tham gia vào nhiều dự án thú vị. Tôi tin rằng việc học không chỉ giới hạn trong sách vở, mà còn là việc thực hành và trao đổi kiến thức với cộng đồng lập trình viên.
 
 ---
 
@@ -44,10 +48,15 @@ Tôi luôn mong muốn học hỏi và trau dồi thêm kiến thức trong các
 
 Dưới đây là một số dự án mà tôi tự hào:
 
-1. **[Ứng dụng Quản lý Công việc](https://github.com/manhcr7/task-manager)**: Xây dựng bằng React.js và Node.js, ứng dụng này giúp người dùng quản lý công việc hàng ngày với giao diện đơn giản và hiệu quả.
-2. **[Trang Landing Page Sản phẩm](https://github.com/manhcr7/landing-page)**: Thiết kế một trang landing page sáng tạo cho một sản phẩm mới, với các hiệu ứng CSS và JavaScript để tăng cường tương tác người dùng.
-3. **[Ứng dụng Thời tiết](https://github.com/manhcr7/weather-app)**: Sử dụng API thời tiết, ứng dụng này giúp người dùng theo dõi thời tiết hiện tại của thành phố mà họ quan tâm.
+1. **[Ứng dụng Quản lý Công việc](https://github.com/manhcr7/task-manager)**: Xây dựng bằng React.js và Node.js, ứng dụng này giúp người dùng quản lý công việc hàng ngày với giao diện đơn giản và hiệu quả. **Tính năng chính**: Thêm, chỉnh sửa, xóa công việc; lưu trữ dữ liệu trên MongoDB.
+
+2. **[Trang Landing Page Sản phẩm](https://github.com/manhcr7/landing-page)**: Thiết kế một trang landing page sáng tạo cho một sản phẩm mới, với các hiệu ứng CSS và JavaScript để tăng cường tương tác người dùng. **Tính năng chính**: Tối ưu hóa SEO và tốc độ tải trang.
+
+3. **[Ứng dụng Thời tiết](https://github.com/manhcr7/weather-app)**: Sử dụng API thời tiết, ứng dụng này giúp người dùng theo dõi thời tiết hiện tại của thành phố mà họ quan tâm. **Tính năng chính**: Hiển thị dự báo thời tiết theo giờ và hàng ngày.
+
 4. **[Website Portfolio Cá nhân](https://github.com/manhcr7/portfolio-website)**: Một trang portfolio cá nhân giúp tôi trình bày các kỹ năng và dự án đã thực hiện, sử dụng React.js và Sass để tối ưu giao diện và trải nghiệm người dùng.
+
+5. **[Ứng dụng Thương mại Điện tử](https://github.com/manhcr7/ecommerce-app)**: Ứng dụng cho phép người dùng duyệt sản phẩm và thực hiện thanh toán trực tuyến. **Tính năng chính**: Giỏ hàng, thanh toán an toàn, và quản lý người dùng.
 
 ---
 
@@ -71,6 +80,7 @@ Dưới đây là một số dự án mà tôi tự hào:
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Codecademy](https://www.codecademy.com/)
 - [Udemy](https://www.udemy.com/)
+- [MDN Web Docs](https://developer.mozilla.org/)
 
 ---
 
@@ -78,6 +88,7 @@ Dưới đây là một số dự án mà tôi tự hào:
 
 - **Ứng dụng Chatbot**: Tích hợp AI để tạo ra một chatbot hỗ trợ người dùng.
 - **Hệ thống Quản lý Thông tin**: Một ứng dụng cho phép người dùng quản lý thông tin cá nhân một cách hiệu quả.
+- **Nền tảng Học trực tuyến**: Tạo một nền tảng cho việc học và trao đổi kiến thức giữa sinh viên và giảng viên.
 
 ---
 
@@ -93,6 +104,7 @@ Dưới đây là một số dự án mà tôi tự hào:
 - **Version Control**: Git, GitHub
 - **Design Tools**: Figma, Adobe XD
 - **Testing**: Jest, React Testing Library
+- **Deployment**: Vercel, Heroku
 
 ---
 
@@ -144,6 +156,11 @@ Tôi luôn tham gia các diễn đàn và cộng đồng lập trình như:
 - **[Dev.to](https://dev.to/)**
 
 ---
+
+### 🏆 Giải thưởng & Thành tựu
+
+- **[Giải nhất cuộc thi lập trình tại trường Iuh](https://iuh.edu.vn/)** - 2023
+- **[Học bổng xuất sắc](https://iuh.edu.vn/)** - 2022
 
 ---
 
