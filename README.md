@@ -60,6 +60,33 @@ Dưới đây là một số dự án mà tôi tự hào:
 
 ---
 
+### 📈 Thống kê GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manhcr7&show_icons=true&theme=radical)
+
+---
+
+### 📚 Tài nguyên học tập
+
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Codecademy](https://www.codecademy.com/)
+- [Udemy](https://www.udemy.com/)
+
+---
+
+### 🎉 Dự án tương lai
+
+- **Ứng dụng Chatbot**: Tích hợp AI để tạo ra một chatbot hỗ trợ người dùng.
+- **Hệ thống Quản lý Thông tin**: Một ứng dụng cho phép người dùng quản lý thông tin cá nhân một cách hiệu quả.
+
+---
+
+### 💬 Trích dẫn yêu thích
+
+> "Programming isn't about what you know; it's about what you can figure out." - Chris Pine
+
+---
+
 ### 📚 Sở thích cá nhân
 
 Ngoài công việc lập trình, tôi còn có sở thích:
@@ -67,6 +94,7 @@ Ngoài công việc lập trình, tôi còn có sở thích:
 - [<img src="https://img.icons8.com/fluency/48/000000/music.png" width="25"/>](https://open.spotify.com/) **Âm nhạc**: Nghe nhạc là nguồn cảm hứng không thể thiếu, đặc biệt là các thể loại nhạc điện tử và indie.
 - [<img src="https://img.icons8.com/fluency/48/000000/worldwide-location.png" width="25"/>](https://www.lonelyplanet.com/) **Du lịch**: Khám phá những vùng đất mới và học hỏi từ những nền văn hóa khác nhau là niềm đam mê của tôi.
 
+---
 
 ### 🔗 Kết nối với tôi
 
