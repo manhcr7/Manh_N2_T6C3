@@ -157,10 +157,7 @@ Tôi luôn tham gia các diễn đàn và cộng đồng lập trình như:
 
 ---
 
-### 🏆 Giải thưởng & Thành tựu
 
-- **[Giải nhất cuộc thi lập trình tại trường Iuh](https://iuh.edu.vn/)** - 2023
-- **[Học bổng xuất sắc](https://iuh.edu.vn/)** - 2022
 
 ---
 
